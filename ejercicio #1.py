@@ -19,7 +19,7 @@ def mayor(x, y, z):
     print("El numero mayor es: " + str(max(x,y,z)))
 
 def menor(x, y, z):
-    print("El numero mayor es: " + str(min(x,y,z)))
+    print("El numero menor es: " + str(min(x,y,z)))
 
 class main:
     init()
